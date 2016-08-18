@@ -1,0 +1,7 @@
+1、 从共享盘复制安装包到linux目录下
+ cp [-adfilprsu] 来源档(source) 目的檔(destination) 
+ 
+2、解压
+unzip
+tar -zxvf
+ 
